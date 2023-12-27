@@ -12,10 +12,12 @@ namespace DesafioFundamentos.Models
             this.precoPorHora = precoPorHora;
         }
 
-        public void AdicionarVeiculo()
+        public void AdicionarVeiculo(string veiculos)
         {
             // Implementado!!!!!
             Console.WriteLine("Digite a placa do veículo para estacionar:");
+            veiculos = Console.ReadLine();
+            veiculos.
         }
 
         public void RemoverVeiculo()
