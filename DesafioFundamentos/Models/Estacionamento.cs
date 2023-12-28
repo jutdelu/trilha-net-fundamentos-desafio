@@ -17,7 +17,6 @@ namespace DesafioFundamentos.Models
             // Implementado!!!!!
             Console.WriteLine("Digite a placa do veículo para estacionar:");
             veiculos = Console.ReadLine();
-            veiculos.
         }
 
         public void RemoverVeiculo()
